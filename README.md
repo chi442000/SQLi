@@ -7,7 +7,7 @@
 - [Mức độ nguy hiểm ](https://github.com/chi442000/SQLi#dangerousness)
 - [Các loại tấn công SQLi](https://github.com/chi442000/SQLi#types-of-attacks)
     - [In-band SQLi](https://github.com/chi442000/SQLi#In-band-SQLi)
-    - [Inferential SQLi (Blind SQLi)](https://github.com/chi442000/SQLi#Inferential-SQLi-(Blind-SQLi))
+    - [Inferential SQLi (Blind SQLi)](https://github.com/chi442000/SQLi#Inferential-SQLi-Blind-SQLi)
     - [Out-of-band SQLi](https://github.com/chi442000/SQLi#out-of-band-sqli)
 - [Các phòng chống SQLi](https://github.com/chi442000/SQLi#prevention)
 - [Kết luận](https://github.com/chi442000/XSS#in-conclusion)
