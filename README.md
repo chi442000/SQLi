@@ -4,7 +4,7 @@
 ### Contents
 - [Khái niệm SQLi](https://github.com/chi442000/SQLi#Concept)
 - [Nguyên nhân](https://github.com/chi442000/SQLi#reason)
-- [Mức độ nguy hiểm ](https://github.com/chi442000/SQLi#rdangerousness)
+- [Mức độ nguy hiểm ](https://github.com/chi442000/SQLi#dangerousness)
 - [Các loại tấn công SQLi](https://github.com/chi442000/SQLi#types-of-attacks)
     - [In-band SQLi](https://github.com/chi442000/SQLi#In-band-SQLi)
     - [Inferential SQLi (Blind SQLi)](https://github.com/chi442000/SQLi#Inferential-SQLi-(Blind-SQLi))
