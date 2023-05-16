@@ -7,7 +7,7 @@
 - [Mức độ nguy hiểm ](https://github.com/chi442000/SQLi#dangerousness)
 - [Các loại tấn công SQLi](https://github.com/chi442000/SQLi#types-of-attacks)
     - [In-band SQLi](https://github.com/chi442000/SQLi#In-band-SQLi)
-    - [Inferential SQLi (Blind SQLi)](https://github.com/chi442000/SQLi#Inferential-SQLi-Blind-SQLi)
+    - [Inferential SQLi (Blind SQLi)](https://github.com/chi442000/SQLi#Inferential-SQLi)
     - [Out-of-band SQLi](https://github.com/chi442000/SQLi#out-of-band-sqli)
 - [Các phòng chống SQLi](https://github.com/chi442000/SQLi#prevention)
 - [Kết luận](https://github.com/chi442000/XSS#in-conclusion)
@@ -69,7 +69,7 @@ Là một kỹ thuật tấn công SQL Injection dựa vào sức mạnh của t
 
 ![example](3.png)
 
-#### Inferential SQLi( Blind SQLi)
+#### Inferential SQLi
 
 - Không giống như In-band SQLi, Inferential SQL Injection tốn nhiều thời gian hơn cho việc tấn công do không có bất kì dữ liệu nào được thực sự trả về thông qua web application và hacker thì không thể theo dõi kết quả trực tiếp như kiểu tấn công In-band
 - Thay vào đó, kẻ tấn công sẽ cố gắng xây dựng lại cấu trúc cơ sở dữ liệu bằng việc gửi đi các payloads, dựa vào kết quả phản hồi của web application và kết quả hành vi của database server.
