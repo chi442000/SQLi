@@ -117,4 +117,7 @@ Mặc dù loại tấn công này được coi là một trong những loại ng
 
 ###  In conclusion
 
+Dù đã rất phổ biến nhưng SQLi vẫn luôn là lỗ hổng tiềm tàng rất nguy hiểm và có thể dẫn đến những tổn thất rất nghiêm trọng nếu như bị kẻ xấu khai thác. Vì vậy nên hiểu về SQL injection và biết cách phòng tránh nó là rất quan trọng với các nhà phát triển ứng dụng nói chung và phát triển ứng dụng web nói riêng.
+
+Trong các bài viết tới chúng ta sẽ tìm hiểu kỹ hơn về các cách phát hiện lỗ hổng SQLi và một số biện pháp xử lý lỗ hổng loại này.
 
